@@ -1,5 +1,5 @@
 {
-  "name": "smartquotes",
+  "name": "smartquotes-latex",
   "description": "Smart quotes are smart typography.",
   "main": "./src/smartquotes",
   "authors": [
@@ -13,7 +13,7 @@
     "browser",
     "node.js"
   ],
-  "homepage": "http://smartquotesjs.com",
+  "homepage": "https://github.com/HarrisonB/smartquotesjs",
   "moduleType": [
     "amd",
     "node"
